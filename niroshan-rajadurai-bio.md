@@ -1,0 +1,5 @@
+Niroshan Rajadurai is an Electrical & Electronics Engineer (Hons) & Computer Science  graduate from The University of Melbourne, Australia. He currently works as Director, Global GitHub Advanced Security Sales at GitHub, responsible for working with Enterprise customers on their application security programs.
+
+Prior to GitHub, Niroshan led growth at Semmle, the company behind the CodeQL semantic code analysis engine which powers GitHub’s Advanced Security code scanning capability. Semmle was acquired by Microsoft/GitHub in September 2019.
+
+Niroshan brings more than 20 years of experience working at BAE Systems & Lockheed Martin in the design and development of safety-critical and fault-tolerant systems. In recent years, he has collaborated in the development of pioneering innovations in the field of DevOps and cyber security. This includes technologies such as application security testing, change-based testing, code fuzzing, and variant analysis for the hunting of 0-days in Enterprise Software.
